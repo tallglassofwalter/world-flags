@@ -6,10 +6,10 @@ function App() {
   return (
     <div className="App">
       {
-        countries.map((el,i) => {
+        countries.map((el) => {
           return (
             <Country
-              key={i}
+              key={el.name}
               name={el.name}
               flag={el.flag}
             />

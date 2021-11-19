@@ -1,12 +1,14 @@
 .App {
   text-align: center;
 }
-/* div {
-  clear: both;
+div {
+  /* clear: both; */
   float: left;
   margin: 5px;
-} */
+  height: 200px;
+}
 
 img {
   margin: 5px;
+  width: 100px;
 }
