@@ -1,14 +1,23 @@
 .App {
   text-align: center;
 }
+.country {
+  width: 150px;
+  max-height: 200px;
+  word-wrap: break-word;
+  padding: 15px;
+  display: inline-block;
+}
+
 div {
-  /* clear: both; */
-  float: left;
   margin: 5px;
-  height: 200px;
 }
 
 img {
   margin: 5px;
   width: 100px;
+}
+
+p {
+  margin-top: -5px;
 }
