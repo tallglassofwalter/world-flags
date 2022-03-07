@@ -49848,7 +49848,7 @@ const countries = [
   }
 ];
 
-export default countries;
+// export default countries;
 
 // const sort = countries.sort((a,b) => {
 //   let aName = a.name.common;
